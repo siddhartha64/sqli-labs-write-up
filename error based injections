@@ -1,4 +1,4 @@
-Error based injections
+# Error based injections
 In this type of injection we have error to help us fuzz the payload, there will be something which reflects our payload on the screen, 
 When we keep changing the value of id we get different output’s of username and passwords.. 
 ￼
